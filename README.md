@@ -1,7 +1,7 @@
 csv2xml
 =======
 
-Simplrt csv to XML converter.
+Simple csv to XML converter.
 
 Used libraries:
 * LINQ to XML
