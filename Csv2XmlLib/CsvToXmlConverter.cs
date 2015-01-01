@@ -7,6 +7,9 @@ using System.Xml.Linq;
 
 namespace Csv2XmlLib
 {
+    /// <summary>
+    /// CSV to XML converter class
+    /// </summary>
     public class CsvToXmlConverter
     {
         public string FilePath;

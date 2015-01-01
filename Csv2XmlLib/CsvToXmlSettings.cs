@@ -3,6 +3,9 @@ using System.Linq;
 
 namespace Csv2XmlLib
 {
+    /// <summary>
+    /// Settings for CSV to XML conversion
+    /// </summary>
     public class CsvToXmlSettings
     {
         public bool Header = true;

@@ -7,6 +7,9 @@ using Csv2XmlLib;
 
 namespace Csv2Xml
 {
+    /// <summary>
+    /// Command line options
+    /// </summary>
     class Options
     {
         [Option('i', "in", Required = true, HelpText = "Input csv file.")]
