@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csv2Xml", "Csv2Xml\Csv2Xml.csproj", "{9CA81088-3C59-46E3-8335-6A9ACD78B453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csv2XmlLib", "Csv2XmlLib\Csv2XmlLib.csproj", "{2B1A6CE6-0A6F-48A2-96F3-6554577D8825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA81088-3C59-46E3-8335-6A9ACD78B453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA81088-3C59-46E3-8335-6A9ACD78B453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA81088-3C59-46E3-8335-6A9ACD78B453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA81088-3C59-46E3-8335-6A9ACD78B453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1A6CE6-0A6F-48A2-96F3-6554577D8825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1A6CE6-0A6F-48A2-96F3-6554577D8825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1A6CE6-0A6F-48A2-96F3-6554577D8825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1A6CE6-0A6F-48A2-96F3-6554577D8825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
