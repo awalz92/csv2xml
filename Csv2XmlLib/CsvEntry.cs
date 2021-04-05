@@ -1,16 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Csv2XmlLib
 {
-    /// <summary>
-    /// CSV entry
-    /// </summary>
-    public class CsvEntry
-    {
-        public Dictionary<string, string> KeyValues = new Dictionary<string, string>();
-    }
+  public class CsvEntry : Dictionary<string, string>
+  {
+  }
 }
